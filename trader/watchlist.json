@@ -1,4 +1,9 @@
 {
   "note": "Tickers the daily brief watches in addition to holdings.",
-  "tickers": []
+  "tickers": [
+    "VOO",
+    "NVDA",
+    "JPM",
+    "XOM"
+  ]
 }
